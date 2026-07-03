@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A7+Building+Resilient+Cloud+Infrastructure;%F0%9F%9A%80+Automating+Everything+%7C+CI%2FCD+%7C+IaC;%E2%98%81%EF%B8%8F+Azure+%7C+AWS+%7C+Oracle+Cloud+Certified;%F0%9F%90%B3+Docker+%7C+Kubernetes+(CKA)+%7C+Terraform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A7+Building+Resilient+Cloud+Infrastructure;%F0%9F%9A%80+Automating+Everything+%7C+CI%2FCD+%7C+IaC;%E2%98%81%EF%B8%8F+Azure+%7C+AWS+%7C+Oracle+Cloud+Certified;%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- PROFILE BADGES -->
-<a href="https://www.linkedin.com/in/kalpana-pramodya-66aa261b5/">
+<a href="https://www.linkedin.com/in/kalpana-pramodya/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:kalpanapramodya97@gmail.com">
@@ -127,7 +127,6 @@ key_competencies:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator_(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
 <img src="https://img.shields.io/badge/Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
 <img src="https://img.shields.io/badge/Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
 <br/>

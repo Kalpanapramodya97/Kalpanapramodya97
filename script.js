@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Building Resilient Cloud Infrastructure",
         "Automating Everything | CI/CD | IaC",
         "Azure | AWS | Oracle Cloud Expert",
-        "Docker | Kubernetes (CKA) | Terraform"
+        "Docker | Kubernetes | Terraform"
     ];
     let i = 0;
     let timer;
